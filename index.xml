@@ -17,11 +17,11 @@ Code Python def foo(): print (&amp;#34;This is a python function&amp;#34;) C/C++
     </item>
     
     <item>
-      <title>Post2</title>
-      <link>https://zclam.github.io/%E5%88%86%E7%B1%BB/test2/</link>
+      <title>Posts</title>
+      <link>https://zclam.github.io/sp/test/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://zclam.github.io/%E5%88%86%E7%B1%BB/test2/</guid>
+      <guid>https://zclam.github.io/sp/test/</guid>
       <description>ssad </description>
     </item>
     
@@ -31,6 +31,51 @@ Code Python def foo(): print (&amp;#34;This is a python function&amp;#34;) C/C++
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://zclam.github.io/%E5%88%86%E7%B1%BB/test/</guid>
+      <description>ssad </description>
+    </item>
+    
+    <item>
+      <title>Posts</title>
+      <link>https://zclam.github.io/%E6%96%87%E7%AB%A0/test/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://zclam.github.io/%E6%96%87%E7%AB%A0/test/</guid>
+      <description>ssad </description>
+    </item>
+    
+    <item>
+      <title>Posts</title>
+      <link>https://zclam.github.io/%E6%A0%87%E7%AD%BE/test/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://zclam.github.io/%E6%A0%87%E7%AD%BE/test/</guid>
+      <description>ssad </description>
+    </item>
+    
+    <item>
+      <title>Posts</title>
+      <link>https://zclam.github.io/%E6%B8%B8%E6%88%8F/test/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://zclam.github.io/%E6%B8%B8%E6%88%8F/test/</guid>
+      <description>ssad </description>
+    </item>
+    
+    <item>
+      <title>Posts</title>
+      <link>https://zclam.github.io/%E8%BF%90%E5%8A%A8/test/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://zclam.github.io/%E8%BF%90%E5%8A%A8/test/</guid>
+      <description>ssad </description>
+    </item>
+    
+    <item>
+      <title>Posts</title>
+      <link>https://zclam.github.io/%E9%9F%B3%E4%B9%90/test/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://zclam.github.io/%E9%9F%B3%E4%B9%90/test/</guid>
       <description>ssad </description>
     </item>
     
