@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Hi,Cool GUY</title>
-    <link>http://zclam.github.io/</link>
-    <description>Recent content on Hi,Cool GUY</description>
+    <title>Categories2s on Hi,Cool GUY</title>
+    <link>http://zclam.github.io/categories2/</link>
+    <description>Recent content in Categories2s on Hi,Cool GUY</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="http://zclam.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="http://zclam.github.io/categories2/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>elements</title>
       <link>http://zclam.github.io/categories2/elements/</link>
@@ -32,15 +32,6 @@ Code Python def foo(): print (&amp;#34;This is a python function&amp;#34;) C/C++
       
       <guid>http://zclam.github.io/categories2/test/</guid>
       <description>ssad </description>
-    </item>
-    
-    <item>
-      <title>TEST</title>
-      <link>http://zclam.github.io/categories/2/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://zclam.github.io/categories/2/</guid>
-      <description>ssad TEST </description>
     </item>
     
   </channel>
