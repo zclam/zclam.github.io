@@ -2,9 +2,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Hi,Cool GUY</title>
-    <link>http://zclam.github.io/tags/</link>
+    <link>https://github.com/zclam/zclam.github.io.git/tags/</link>
     <description>Recent content in Tags on Hi,Cool GUY</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="http://zclam.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="https://github.com/zclam/zclam.github.io.git/tags/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

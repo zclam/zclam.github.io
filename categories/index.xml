@@ -2,16 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Hi,Cool GUY</title>
-    <link>http://zclam.github.io/categories/</link>
+    <link>https://github.com/zclam/zclam.github.io.git/categories/</link>
     <description>Recent content in Categories on Hi,Cool GUY</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="http://zclam.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>TEST</title>
-      <link>http://zclam.github.io/categories/2/</link>
+    <language>en-us</language><atom:link href="https://github.com/zclam/zclam.github.io.git/categories/index.xml" rel="self" type="application/rss+xml" />
+  </channel>
+</rss>
+tle>TEST</title>
+      <link>https://github.com/zclam/zclam.github.io.git/categories/2/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://zclam.github.io/categories/2/</guid>
+      <guid>https://github.com/zclam/zclam.github.io.git/categories/2/</guid>
       <description>ssad TEST </description>
     </item>
     
