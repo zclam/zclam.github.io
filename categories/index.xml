@@ -1,14 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Categories on Hi,Cool GUY</title>
+    <title>Categories on Hi</title>
     <link>https://github.com/zclam/zclam.github.io.git/categories/</link>
-    <description>Recent content in Categories on Hi,Cool GUY</description>
+    <description>Recent content in Categories on Hi</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language><atom:link href="https://github.com/zclam/zclam.github.io.git/categories/index.xml" rel="self" type="application/rss+xml" />
-  </channel>
-</rss>
-tle>TEST</title>
+    <item>
+      <title>TEST</title>
       <link>https://github.com/zclam/zclam.github.io.git/categories/2/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
