@@ -1,93 +1,67 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Hi</title>
+    <title>欢迎来到我的个站</title>
     <link>https://zclam.github.io/</link>
-    <description>Recent content on Hi</description>
+    <description>Recent content on 欢迎来到我的个站</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="https://zclam.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 26 Jan 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://zclam.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>elements</title>
-      <link>https://zclam.github.io/categories/elements/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <title>第3篇</title>
+      <link>https://zclam.github.io/posts/2021/01/%E7%AC%AC3%E7%AF%87/</link>
+      <pubDate>Tue, 26 Jan 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://zclam.github.io/categories/elements/</guid>
-      <description>Table of contents  Table of contents Text Code  Python C/C++ Bash   Tables  Text Some example text
-Code Python def foo(): print (&amp;#34;This is a python function&amp;#34;) C/C++ void foo(){ prinf(&amp;#34;%s\n&amp;#34;, &amp;#34;This is a C function&amp;#34;) } Bash # This is a bash command cd dir &amp;amp;&amp;amp; echo $PWD; # Return exit 0; Tables    Pages Elements     1 Text   2 Code   3 Tables    </description>
+      <guid>https://zclam.github.io/posts/2021/01/%E7%AC%AC3%E7%AF%87/</guid>
+      <description>之后打算用这个博客记录一下学习
+hugo提供了通过主题构建网站的机制。hugo生态已经提供了300+的主题可以用。主题类似一种前端框架，可以帮助我们快速建站。我调研了一些主题，各有优点，也有令我不满意的地方，所以决定还是自己开发一套主题来用。 开发主题需要结合实际的项目来做，一边看效果一边做调整。下面以开发个人博客为例，介绍如何DIY自己的主题。
+之后打算用这个博客记录一下学习
+hugo提供了通过主题构建网站的机制。hugo生态已经提供了300+的主题可以用。主题类似一种前端框架，可以帮助我们快速建站。我调研了一些主题，各有优点，也有令我不满意的地方，所以决定还是自己开发一套主题来用。 开发主题需要结合实际的项目来做，一边看效果一边做调整。下面以开发个人博客为例，介绍如何DIY自己的主题。
+之后打算用这个博客记录一下学习
+hugo提供了通过主题构建网站的机制。hugo生态已经提供了300+的主题可以用。主题类似一种前端框架，可以帮助我们快速建站。我调研了一些主题，各有优点，也有令我不满意的地方，所以决定还是自己开发一套主题来用。 开发主题需要结合实际的项目来做，一边看效果一边做调整。下面以开发个人博客为例，介绍如何DIY自己的主题。
+之后打算用这个博客记录一下学习
+hugo提供了通过主题构建网站的机制。hugo生态已经提供了300+的主题可以用。主题类似一种前端框架，可以帮助我们快速建站。我调研了一些主题，各有优点，也有令我不满意的地方，所以决定还是自己开发一套主题来用。 开发主题需要结合实际的项目来做，一边看效果一边做调整。下面以开发个人博客为例，介绍如何DIY自己的主题。
+之后打算用这个博客记录一下学习
+hugo提供了通过主题构建网站的机制。hugo生态已经提供了300+的主题可以用。主题类似一种前端框架，可以帮助我们快速建站。我调研了一些主题，各有优点，也有令我不满意的地方，所以决定还是自己开发一套主题来用。 开发主题需要结合实际的项目来做，一边看效果一边做调整。下面以开发个人博客为例，介绍如何DIY自己的主题。
+之后打算用这个博客记录一下学习
+hugo提供了通过主题构建网站的机制。hugo生态已经提供了300+的主题可以用。主题类似一种前端框架，可以帮助我们快速建站。我调研了一些主题，各有优点，也有令我不满意的地方，所以决定还是自己开发一套主题来用。 开发主题需要结合实际的项目来做，一边看效果一边做调整。下面以开发个人博客为例，介绍如何DIY自己的主题。
+之后打算用这个博客记录一下学习
+hugo提供了通过主题构建网站的机制。hugo生态已经提供了300+的主题可以用。主题类似一种前端框架，可以帮助我们快速建站。我调研了一些主题，各有优点，也有令我不满意的地方，所以决定还是自己开发一套主题来用。 开发主题需要结合实际的项目来做，一边看效果一边做调整。下面以开发个人博客为例，介绍如何DIY自己的主题。
+之后打算用这个博客记录一下学习
+hugo提供了通过主题构建网站的机制。hugo生态已经提供了300+的主题可以用。主题类似一种前端框架，可以帮助我们快速建站。我调研了一些主题，各有优点，也有令我不满意的地方，所以决定还是自己开发一套主题来用。 开发主题需要结合实际的项目来做，一边看效果一边做调整。下面以开发个人博客为例，介绍如何DIY自己的主题。</description>
     </item>
     
     <item>
-      <title>elements</title>
-      <link>https://zclam.github.io/%E5%88%86%E7%B1%BB/elements/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <title>第3篇</title>
+      <link>https://zclam.github.io/posts/2021/01/%E7%AC%AC3%E7%AF%87/</link>
+      <pubDate>Tue, 26 Jan 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://zclam.github.io/%E5%88%86%E7%B1%BB/elements/</guid>
-      <description>Table of contents  Table of contents Text Code  Python C/C++ Bash   Tables  Text Some example text
-Code Python def foo(): print (&amp;#34;This is a python function&amp;#34;) C/C++ void foo(){ prinf(&amp;#34;%s\n&amp;#34;, &amp;#34;This is a C function&amp;#34;) } Bash # This is a bash command cd dir &amp;amp;&amp;amp; echo $PWD; # Return exit 0; Tables    Pages Elements     1 Text   2 Code   3 Tables    </description>
+      <guid>https://zclam.github.io/posts/2021/01/%E7%AC%AC3%E7%AF%87/</guid>
+      <description>之后打算用这个博客记录一下学习
+hugo提供了通过主题构建网站的机制。hugo生态已经提供了300+的主题可以用。主题类似一种前端框架，可以帮助我们快速建站。我调研了一些主题，各有优点，也有令我不满意的地方，所以决定还是自己开发一套主题来用。 开发主题需要结合实际的项目来做，一边看效果一边做调整。下面以开发个人博客为例，介绍如何DIY自己的主题。
+之后打算用这个博客记录一下学习
+hugo提供了通过主题构建网站的机制。hugo生态已经提供了300+的主题可以用。主题类似一种前端框架，可以帮助我们快速建站。我调研了一些主题，各有优点，也有令我不满意的地方，所以决定还是自己开发一套主题来用。 开发主题需要结合实际的项目来做，一边看效果一边做调整。下面以开发个人博客为例，介绍如何DIY自己的主题。
+之后打算用这个博客记录一下学习
+hugo提供了通过主题构建网站的机制。hugo生态已经提供了300+的主题可以用。主题类似一种前端框架，可以帮助我们快速建站。我调研了一些主题，各有优点，也有令我不满意的地方，所以决定还是自己开发一套主题来用。 开发主题需要结合实际的项目来做，一边看效果一边做调整。下面以开发个人博客为例，介绍如何DIY自己的主题。
+之后打算用这个博客记录一下学习
+hugo提供了通过主题构建网站的机制。hugo生态已经提供了300+的主题可以用。主题类似一种前端框架，可以帮助我们快速建站。我调研了一些主题，各有优点，也有令我不满意的地方，所以决定还是自己开发一套主题来用。 开发主题需要结合实际的项目来做，一边看效果一边做调整。下面以开发个人博客为例，介绍如何DIY自己的主题。
+之后打算用这个博客记录一下学习
+hugo提供了通过主题构建网站的机制。hugo生态已经提供了300+的主题可以用。主题类似一种前端框架，可以帮助我们快速建站。我调研了一些主题，各有优点，也有令我不满意的地方，所以决定还是自己开发一套主题来用。 开发主题需要结合实际的项目来做，一边看效果一边做调整。下面以开发个人博客为例，介绍如何DIY自己的主题。
+之后打算用这个博客记录一下学习
+hugo提供了通过主题构建网站的机制。hugo生态已经提供了300+的主题可以用。主题类似一种前端框架，可以帮助我们快速建站。我调研了一些主题，各有优点，也有令我不满意的地方，所以决定还是自己开发一套主题来用。 开发主题需要结合实际的项目来做，一边看效果一边做调整。下面以开发个人博客为例，介绍如何DIY自己的主题。
+之后打算用这个博客记录一下学习
+hugo提供了通过主题构建网站的机制。hugo生态已经提供了300+的主题可以用。主题类似一种前端框架，可以帮助我们快速建站。我调研了一些主题，各有优点，也有令我不满意的地方，所以决定还是自己开发一套主题来用。 开发主题需要结合实际的项目来做，一边看效果一边做调整。下面以开发个人博客为例，介绍如何DIY自己的主题。
+之后打算用这个博客记录一下学习
+hugo提供了通过主题构建网站的机制。hugo生态已经提供了300+的主题可以用。主题类似一种前端框架，可以帮助我们快速建站。我调研了一些主题，各有优点，也有令我不满意的地方，所以决定还是自己开发一套主题来用。 开发主题需要结合实际的项目来做，一边看效果一边做调整。下面以开发个人博客为例，介绍如何DIY自己的主题。</description>
     </item>
     
     <item>
-      <title>elements</title>
-      <link>https://zclam.github.io/%E8%BF%90%E5%8A%A81/elements/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <title>第一篇</title>
+      <link>https://zclam.github.io/posts/2021/01/%E7%AC%AC%E4%B8%80%E7%AF%87/</link>
+      <pubDate>Mon, 25 Jan 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://zclam.github.io/%E8%BF%90%E5%8A%A81/elements/</guid>
-      <description>Table of contents  Table of contents Text Code  Python C/C++ Bash   Tables  Text Some example text
-Code Python def foo(): print (&amp;#34;This is a python function&amp;#34;) C/C++ void foo(){ prinf(&amp;#34;%s\n&amp;#34;, &amp;#34;This is a C function&amp;#34;) } Bash # This is a bash command cd dir &amp;amp;&amp;amp; echo $PWD; # Return exit 0; Tables    Pages Elements     1 Text   2 Code   3 Tables    </description>
-    </item>
-    
-    <item>
-      <title>Posts</title>
-      <link>https://zclam.github.io/sp/test/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://zclam.github.io/sp/test/</guid>
-      <description>ssad </description>
-    </item>
-    
-    <item>
-      <title>Posts</title>
-      <link>https://zclam.github.io/%E5%88%86%E7%B1%BB/test/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://zclam.github.io/%E5%88%86%E7%B1%BB/test/</guid>
-      <description>ssad </description>
-    </item>
-    
-    <item>
-      <title>Posts</title>
-      <link>https://zclam.github.io/%E6%96%87%E7%AB%A0/test/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://zclam.github.io/%E6%96%87%E7%AB%A0/test/</guid>
-      <description>ssad </description>
-    </item>
-    
-    <item>
-      <title>Posts</title>
-      <link>https://zclam.github.io/%E6%A0%87%E7%AD%BE/test/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://zclam.github.io/%E6%A0%87%E7%AD%BE/test/</guid>
-      <description>ssad </description>
-    </item>
-    
-    <item>
-      <title>Posts</title>
-      <link>https://zclam.github.io/%E6%B8%B8%E6%88%8F/test/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://zclam.github.io/%E6%B8%B8%E6%88%8F/test/</guid>
-      <description>ssad </description>
-    </item>
-    
-    <item>
-      <title>Posts</title>
-      <link>https://zclam.github.io/%E9%9F%B3%E4%B9%90/test/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://zclam.github.io/%E9%9F%B3%E4%B9%90/test/</guid>
-      <description>ssad </description>
+      <guid>https://zclam.github.io/posts/2021/01/%E7%AC%AC%E4%B8%80%E7%AF%87/</guid>
+      <description>之后打算用这个博客记录一下学习 Skip to main content Search
+Docs Power Platform Power Apps Create apps Dataverse Why choose Dataverse? Work with any app Search Filter by title Dataverse What is Dataverse? Overview Work with any data Importing and exporting data Work with any app Table overview Tables and metadata Types of tables Create a table Create a custom table that has components Edit a table Create and edit virtual tables Virtual table OData v4 data provider Define alternate keys using Power Apps portal Define alternate keys using solution explorer SharePoint, OneNote, and OneDrive integration Translate customized table and column text Import translated table and column text Security in Dataverse API limits overview For developers Chatbots AI Builder Work with any type of app 06/16/2020 6 minutes to read</description>
     </item>
     
   </channel>

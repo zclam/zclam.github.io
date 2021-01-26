@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on Hi</title>
+    <title>Tags on 欢迎来到我的个站</title>
     <link>https://zclam.github.io/tags/</link>
-    <description>Recent content in Tags on Hi</description>
+    <description>Recent content in Tags on 欢迎来到我的个站</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="https://zclam.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 26 Jan 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://zclam.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>122</title>
+      <link>https://zclam.github.io/tags/122/</link>
+      <pubDate>Tue, 26 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://zclam.github.io/tags/122/</guid>
+      <description></description>
+    </item>
+    
   </channel>
 </rss>

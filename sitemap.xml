@@ -1,85 +1,16 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
-  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+<sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
-  <url>
-    <loc>https://zclam.github.io/categories/</loc>
-  </url>
+  <sitemap>
+    <loc>https://zclam.github.io/zh-cn/sitemap.xml</loc>
+    
+      <lastmod>2021-01-26T00:00:00+00:00</lastmod>
+    
+  </sitemap>
   
-  <url>
-    <loc>https://zclam.github.io/categories/</loc>
-  </url>
+  <sitemap>
+    <loc>https://zclam.github.io/en/sitemap.xml</loc>
+    
+  </sitemap>
   
-  <url>
-    <loc>https://zclam.github.io/categories/elements/</loc>
-  </url>
-  
-  <url>
-    <loc>https://zclam.github.io/%E5%88%86%E7%B1%BB/elements/</loc>
-  </url>
-  
-  <url>
-    <loc>https://zclam.github.io/%E8%BF%90%E5%8A%A81/elements/</loc>
-  </url>
-  
-  <url>
-    <loc>https://zclam.github.io/</loc>
-  </url>
-  
-  <url>
-    <loc>https://zclam.github.io/sp/test/</loc>
-  </url>
-  
-  <url>
-    <loc>https://zclam.github.io/%E5%88%86%E7%B1%BB/test/</loc>
-  </url>
-  
-  <url>
-    <loc>https://zclam.github.io/%E6%96%87%E7%AB%A0/test/</loc>
-  </url>
-  
-  <url>
-    <loc>https://zclam.github.io/%E6%A0%87%E7%AD%BE/test/</loc>
-  </url>
-  
-  <url>
-    <loc>https://zclam.github.io/%E6%B8%B8%E6%88%8F/test/</loc>
-  </url>
-  
-  <url>
-    <loc>https://zclam.github.io/%E9%9F%B3%E4%B9%90/test/</loc>
-  </url>
-  
-  <url>
-    <loc>https://zclam.github.io/sp/</loc>
-  </url>
-  
-  <url>
-    <loc>https://zclam.github.io/tags/</loc>
-  </url>
-  
-  <url>
-    <loc>https://zclam.github.io/%E5%88%86%E7%B1%BB/</loc>
-  </url>
-  
-  <url>
-    <loc>https://zclam.github.io/%E6%96%87%E7%AB%A0/</loc>
-  </url>
-  
-  <url>
-    <loc>https://zclam.github.io/%E6%A0%87%E7%AD%BE/</loc>
-  </url>
-  
-  <url>
-    <loc>https://zclam.github.io/%E6%B8%B8%E6%88%8F/</loc>
-  </url>
-  
-  <url>
-    <loc>https://zclam.github.io/%E8%BF%90%E5%8A%A81/</loc>
-  </url>
-  
-  <url>
-    <loc>https://zclam.github.io/%E9%9F%B3%E4%B9%90/</loc>
-  </url>
-  
-</urlset>
+</sitemapindex>

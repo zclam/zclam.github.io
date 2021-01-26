@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>随笔 on 欢迎来到我的个站</title>
+    <link>https://zclam.github.io/categories/%E9%9A%8F%E7%AC%94/</link>
+    <description>Recent content in 随笔 on 欢迎来到我的个站</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Mon, 25 Jan 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://zclam.github.io/categories/%E9%9A%8F%E7%AC%94/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>第一篇</title>
+      <link>https://zclam.github.io/posts/2021/01/%E7%AC%AC%E4%B8%80%E7%AF%87/</link>
+      <pubDate>Mon, 25 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://zclam.github.io/posts/2021/01/%E7%AC%AC%E4%B8%80%E7%AF%87/</guid>
+      <description>之后打算用这个博客记录一下学习 Skip to main content Search
+Docs Power Platform Power Apps Create apps Dataverse Why choose Dataverse? Work with any app Search Filter by title Dataverse What is Dataverse? Overview Work with any data Importing and exporting data Work with any app Table overview Tables and metadata Types of tables Create a table Create a custom table that has components Edit a table Create and edit virtual tables Virtual table OData v4 data provider Define alternate keys using Power Apps portal Define alternate keys using solution explorer SharePoint, OneNote, and OneDrive integration Translate customized table and column text Import translated table and column text Security in Dataverse API limits overview For developers Chatbots AI Builder Work with any type of app 06/16/2020 6 minutes to read</description>
+    </item>
+    
+  </channel>
+</rss>
