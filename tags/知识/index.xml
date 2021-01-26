@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>随笔 on 欢迎来到我的博客</title>
-    <link>https://zclam.github.io/categories/%E9%9A%8F%E7%AC%94/</link>
-    <description>Recent content in 随笔 on 欢迎来到我的博客</description>
+    <title>知识 on 欢迎来到我的博客</title>
+    <link>https://zclam.github.io/tags/%E7%9F%A5%E8%AF%86/</link>
+    <description>Recent content in 知识 on 欢迎来到我的博客</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Tue, 26 Jan 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://zclam.github.io/categories/%E9%9A%8F%E7%AC%94/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 26 Jan 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://zclam.github.io/tags/%E7%9F%A5%E8%AF%86/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>学习快速使用一门新技术</title>
       <link>https://zclam.github.io/posts/2021/01/%E5%AD%A6%E4%B9%A0%E5%BF%AB%E9%80%9F%E4%BD%BF%E7%94%A8%E4%B8%80%E9%97%A8%E6%96%B0%E6%8A%80%E6%9C%AF/</link>
@@ -25,16 +25,6 @@
 最好别超过一周，具体看技术难度
 4.实战开发 不要从0开始开发！ 不要从0开始开发！ 不要从0开始开发！
 诉求是快速开发，所以从0开始没那么多时间了。直接改别人的项目，不懂得地方直接用谷歌查问题。 在这个实战的过程中慢慢的就会深入理解这门技术 </description>
-    </item>
-    
-    <item>
-      <title>第一篇</title>
-      <link>https://zclam.github.io/posts/2021/01/%E7%AC%AC%E4%B8%80%E7%AF%87/</link>
-      <pubDate>Mon, 25 Jan 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://zclam.github.io/posts/2021/01/%E7%AC%AC%E4%B8%80%E7%AF%87/</guid>
-      <description>之后打算用这个博客记录一下学习 Skip to main content Search
-Docs Power Platform Power Apps Create apps Dataverse Why choose Dataverse? Work with any app Search Filter by title Dataverse What is Dataverse? Overview Work with any data Importing and exporting data Work with any app Table overview Tables and metadata Types of tables Create a table Create a custom table that has components Edit a table Create and edit virtual tables Virtual table OData v4 data provider Define alternate keys using Power Apps portal Define alternate keys using solution explorer SharePoint, OneNote, and OneDrive integration Translate customized table and column text Import translated table and column text Security in Dataverse API limits overview For developers Chatbots AI Builder Work with any type of app 06/16/2020 6 minutes to read</description>
     </item>
     
   </channel>

@@ -1,0 +1,322 @@
+<!DOCTYPE html>
+<html lang="zh-cn">
+    
+    <head>
+        <meta charset="UTF-8">
+<meta http-equiv="X-UA-Compatible" content="ie=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+<meta name="author" content="ZC ">
+<meta name="description" content="因为业务需求，让我去学习React，记录一下我整个学习过程。我的诉求是快速了解该技术紧接上手开发项目，然后在项目中慢慢理解该门技术。但是很可惜我无法快速上手，总结一下遇到的坑，以便以后在学习一门新技术的时候，以供参考。
+@toc
+之前的学习过程 所以总结一下经验，如果可以重来我会怎么学习，或者说未来面对一门新技术我应该如何快速上手。
+下次如何使用新技术 1.搜索资料 花几个钟把可以找资料的渠道都找一下，遇到好的学习资料真的可以节省很多时间！需要的内容是基础知识和简单的项目
+2.筛选资料 对比文字教学和视频教学（二倍速观看），花半天对比多几个教学看看哪个才是合适自己的，选择最合适自己的方法。
+3.快速吸收 1.先看整个项目模板，了解一下大概。直接问自己，如果现在就开发的话，我应该掌握什么内容即可？？真的没有必要从0学起！！！因为学习周期过长会厌恶这个过程，而且也没有那么多时间。半天
+2.将项目和基础教学结合起来，如果是视频类的基础教学（二倍速观看），难点才放慢，每次看视频完一个的时候，重新回忆一下重要的内容，翻到知识重点并且截图，做一下笔记。笔记一定要学完一次复习一次！
+以下有两个大坑！
+很多内容听不懂没关系，大概了解并且会用即可，因为一些内容可能要到有一定的开发经验才会理解。
+知识断层不一定非要回去恶补，知道它用来干嘛即可，比如我前端开发经验特别少，而且很久没用过了，只知道JS\HTML\CSS是用来干嘛的，还有一些新的规则我也不清楚，但是不影响你快速上手！
+最好别超过一周，具体看技术难度
+4.实战开发 不要从0开始开发！ 不要从0开始开发！ 不要从0开始开发！
+诉求是快速开发，所以从0开始没那么多时间了。直接改别人的项目，不懂得地方直接用谷歌查问题。 在这个实战的过程中慢慢的就会深入理解这门技术 " />
+<meta name="keywords" content=", 知识" />
+<meta name="robots" content="noodp" />
+<meta name="theme-color" content="" />
+<link rel="canonical" href="https://zclam.github.io/posts/2021/01/%E5%AD%A6%E4%B9%A0%E5%BF%AB%E9%80%9F%E4%BD%BF%E7%94%A8%E4%B8%80%E9%97%A8%E6%96%B0%E6%8A%80%E6%9C%AF/" />
+
+
+    <title>
+        
+            学习快速使用一门新技术 :: 欢迎来到我的博客  — 你好
+        
+    </title>
+
+
+
+<link href="https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.5.0/css/flag-icon.min.css" rel="stylesheet"
+    type="text/css">
+
+
+
+<link rel="stylesheet" href="https://zclam.github.io/main.910e15dc52254187e03d780d8a3f325ed4cf425e6c23b5b3a8911f9e6e379ea8.css">
+
+
+
+
+    <link rel="apple-touch-icon" sizes="180x180" href="https://zclam.github.io/apple-touch-icon.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="https://zclam.github.io/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="https://zclam.github.io/favicon-16x16.png">
+    <link rel="manifest" href="https://zclam.github.io/site.webmanifest">
+    <link rel="mask-icon" href="https://zclam.github.io/safari-pinned-tab.svg" color="#1b1c1d">
+    <link rel="shortcut icon" href="https://zclam.github.io/favicon.ico">
+    <meta name="msapplication-TileColor" content="#1b1c1d">
+    <meta name="theme-color" content="#1b1c1d">
+
+
+
+<meta itemprop="name" content="学习快速使用一门新技术">
+<meta itemprop="description" content="因为业务需求，让我去学习React，记录一下我整个学习过程。我的诉求是快速了解该技术紧接上手开发项目，然后在项目中慢慢理解该门技术。但是很可惜我无法快速上手，总结一下遇到的坑，以便以后在学习一门新技术的时候，以供参考。
+@toc
+之前的学习过程 所以总结一下经验，如果可以重来我会怎么学习，或者说未来面对一门新技术我应该如何快速上手。
+下次如何使用新技术 1.搜索资料 花几个钟把可以找资料的渠道都找一下，遇到好的学习资料真的可以节省很多时间！需要的内容是基础知识和简单的项目
+2.筛选资料 对比文字教学和视频教学（二倍速观看），花半天对比多几个教学看看哪个才是合适自己的，选择最合适自己的方法。
+3.快速吸收 1.先看整个项目模板，了解一下大概。直接问自己，如果现在就开发的话，我应该掌握什么内容即可？？真的没有必要从0学起！！！因为学习周期过长会厌恶这个过程，而且也没有那么多时间。半天
+2.将项目和基础教学结合起来，如果是视频类的基础教学（二倍速观看），难点才放慢，每次看视频完一个的时候，重新回忆一下重要的内容，翻到知识重点并且截图，做一下笔记。笔记一定要学完一次复习一次！
+以下有两个大坑！
+很多内容听不懂没关系，大概了解并且会用即可，因为一些内容可能要到有一定的开发经验才会理解。
+知识断层不一定非要回去恶补，知道它用来干嘛即可，比如我前端开发经验特别少，而且很久没用过了，只知道JS\HTML\CSS是用来干嘛的，还有一些新的规则我也不清楚，但是不影响你快速上手！
+最好别超过一周，具体看技术难度
+4.实战开发 不要从0开始开发！ 不要从0开始开发！ 不要从0开始开发！
+诉求是快速开发，所以从0开始没那么多时间了。直接改别人的项目，不懂得地方直接用谷歌查问题。 在这个实战的过程中慢慢的就会深入理解这门技术 ">
+<meta itemprop="datePublished" content="2021-01-26T00:00:00+00:00" />
+<meta itemprop="dateModified" content="2021-01-26T00:00:00+00:00" />
+<meta itemprop="wordCount" content="22">
+<meta itemprop="image" content="https://zclam.github.io"/>
+
+
+
+<meta itemprop="keywords" content="知识," />
+
+<meta name="twitter:card" content="summary_large_image"/>
+<meta name="twitter:image" content="https://zclam.github.io"/>
+
+<meta name="twitter:title" content="学习快速使用一门新技术"/>
+<meta name="twitter:description" content="因为业务需求，让我去学习React，记录一下我整个学习过程。我的诉求是快速了解该技术紧接上手开发项目，然后在项目中慢慢理解该门技术。但是很可惜我无法快速上手，总结一下遇到的坑，以便以后在学习一门新技术的时候，以供参考。
+@toc
+之前的学习过程 所以总结一下经验，如果可以重来我会怎么学习，或者说未来面对一门新技术我应该如何快速上手。
+下次如何使用新技术 1.搜索资料 花几个钟把可以找资料的渠道都找一下，遇到好的学习资料真的可以节省很多时间！需要的内容是基础知识和简单的项目
+2.筛选资料 对比文字教学和视频教学（二倍速观看），花半天对比多几个教学看看哪个才是合适自己的，选择最合适自己的方法。
+3.快速吸收 1.先看整个项目模板，了解一下大概。直接问自己，如果现在就开发的话，我应该掌握什么内容即可？？真的没有必要从0学起！！！因为学习周期过长会厌恶这个过程，而且也没有那么多时间。半天
+2.将项目和基础教学结合起来，如果是视频类的基础教学（二倍速观看），难点才放慢，每次看视频完一个的时候，重新回忆一下重要的内容，翻到知识重点并且截图，做一下笔记。笔记一定要学完一次复习一次！
+以下有两个大坑！
+很多内容听不懂没关系，大概了解并且会用即可，因为一些内容可能要到有一定的开发经验才会理解。
+知识断层不一定非要回去恶补，知道它用来干嘛即可，比如我前端开发经验特别少，而且很久没用过了，只知道JS\HTML\CSS是用来干嘛的，还有一些新的规则我也不清楚，但是不影响你快速上手！
+最好别超过一周，具体看技术难度
+4.实战开发 不要从0开始开发！ 不要从0开始开发！ 不要从0开始开发！
+诉求是快速开发，所以从0开始没那么多时间了。直接改别人的项目，不懂得地方直接用谷歌查问题。 在这个实战的过程中慢慢的就会深入理解这门技术 "/>
+
+
+
+
+    <meta property="og:title" content="学习快速使用一门新技术" />
+<meta property="og:description" content="因为业务需求，让我去学习React，记录一下我整个学习过程。我的诉求是快速了解该技术紧接上手开发项目，然后在项目中慢慢理解该门技术。但是很可惜我无法快速上手，总结一下遇到的坑，以便以后在学习一门新技术的时候，以供参考。
+@toc
+之前的学习过程 所以总结一下经验，如果可以重来我会怎么学习，或者说未来面对一门新技术我应该如何快速上手。
+下次如何使用新技术 1.搜索资料 花几个钟把可以找资料的渠道都找一下，遇到好的学习资料真的可以节省很多时间！需要的内容是基础知识和简单的项目
+2.筛选资料 对比文字教学和视频教学（二倍速观看），花半天对比多几个教学看看哪个才是合适自己的，选择最合适自己的方法。
+3.快速吸收 1.先看整个项目模板，了解一下大概。直接问自己，如果现在就开发的话，我应该掌握什么内容即可？？真的没有必要从0学起！！！因为学习周期过长会厌恶这个过程，而且也没有那么多时间。半天
+2.将项目和基础教学结合起来，如果是视频类的基础教学（二倍速观看），难点才放慢，每次看视频完一个的时候，重新回忆一下重要的内容，翻到知识重点并且截图，做一下笔记。笔记一定要学完一次复习一次！
+以下有两个大坑！
+很多内容听不懂没关系，大概了解并且会用即可，因为一些内容可能要到有一定的开发经验才会理解。
+知识断层不一定非要回去恶补，知道它用来干嘛即可，比如我前端开发经验特别少，而且很久没用过了，只知道JS\HTML\CSS是用来干嘛的，还有一些新的规则我也不清楚，但是不影响你快速上手！
+最好别超过一周，具体看技术难度
+4.实战开发 不要从0开始开发！ 不要从0开始开发！ 不要从0开始开发！
+诉求是快速开发，所以从0开始没那么多时间了。直接改别人的项目，不懂得地方直接用谷歌查问题。 在这个实战的过程中慢慢的就会深入理解这门技术 " />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="https://zclam.github.io/posts/2021/01/%E5%AD%A6%E4%B9%A0%E5%BF%AB%E9%80%9F%E4%BD%BF%E7%94%A8%E4%B8%80%E9%97%A8%E6%96%B0%E6%8A%80%E6%9C%AF/" />
+<meta property="og:image" content="https://zclam.github.io"/>
+<meta property="article:published_time" content="2021-01-26T00:00:00+00:00" />
+<meta property="article:modified_time" content="2021-01-26T00:00:00+00:00" />
+
+
+
+
+    <meta property="article:section" content="随笔" />
+
+
+
+    <meta property="article:published_time" content="2021-01-26 00:00:00 &#43;0000 UTC" />
+
+
+
+
+
+
+
+
+    </head>
+
+    
+        <body>
+    
+    
+        <div class="container">
+            <header class="header">
+    <span class="header__inner">
+        <a href="https://zclam.github.io/" style="text-decoration: none;">
+    <div class="logo">
+        
+            <span class="logo__mark">></span>
+            <span class="logo__text">请点击右侧&gt;&gt;&gt;</span>
+            <span class="logo__cursor" style=
+                  "
+                   
+                   ">
+            </span>
+        
+    </div>
+</a>
+
+
+        <span class="header__right">
+            
+                <nav class="menu">
+    <ul class="menu__inner"><li><a href="https://zclam.github.io/categories/">分类</a></li><li><a href="https://zclam.github.io/tags/">标签</a></li>
+    </ul>
+</nav>
+
+                <span class="menu-trigger">
+                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">
+                        <path d="M0 0h24v24H0z" fill="none"/>
+                        <path d="M3 18h18v-2H3v2zm0-5h18v-2H3v2zm0-7v2h18V6H3z"/>
+                    </svg>
+                </span>
+            
+        </span>
+    </span>
+</header>
+
+
+            <div class="content">
+                
+  <main class="post">
+
+    <div class="post-info">
+      
+    </div>
+
+    <article>
+      <h1 class="post-title">
+        <a href="https://zclam.github.io/posts/2021/01/%E5%AD%A6%E4%B9%A0%E5%BF%AB%E9%80%9F%E4%BD%BF%E7%94%A8%E4%B8%80%E9%97%A8%E6%96%B0%E6%8A%80%E6%9C%AF/">学习快速使用一门新技术</a>
+      </h1>
+
+      
+
+      
+
+      <div class="post-content">
+        <p>因为业务需求，让我去学习React，记录一下我整个学习过程。我的诉求是<strong>快速了解该技术紧接上手开发项目</strong>，然后在项目中慢慢理解该门技术。但是很可惜我无法快速上手，总结一下遇到的坑，以便以后在学习一门新技术的时候，以供参考。</p>
+<!-- raw HTML omitted -->
+<p>@<a href="%E5%BF%AB%E9%80%9F%E4%BD%BF%E7%94%A8%E6%96%B0%E6%8A%80%E6%9C%AF">toc</a></p>
+<h1 id="之前的学习过程">之前的学习过程</h1>
+<!-- raw HTML omitted -->
+<!-- raw HTML omitted -->
+<p>所以总结一下经验，如果可以重来我会怎么学习，或者说未来面对一门新技术我应该如何快速上手。</p>
+<h1 id="下次如何使用新技术">下次如何使用新技术</h1>
+<h2 id="1搜索资料">1.搜索资料</h2>
+<p>花几个钟把可以找资料的渠道都找一下，遇到好的学习资料真的可以节省很多时间！<strong>需要的内容是基础知识和简单的项目</strong></p>
+<h2 id="2筛选资料">2.筛选资料</h2>
+<p>对比文字教学和视频教学（二倍速观看），花半天对比多几个教学看看哪个才是合适自己的，<strong>选择最合适自己的方法。</strong></p>
+<h2 id="3快速吸收">3.快速吸收</h2>
+<p>1.先看整个项目模板，了解一下大概。直接问自己，如果现在就开发的话，我应该掌握什么内容即可？？真的没有必要从0学起！！！因为学习周期过长会厌恶这个过程，而且也没有那么多时间。半天</p>
+<p>2.将项目和基础教学结合起来，如果是视频类的基础教学（二倍速观看），难点才放慢，每次看视频完一个的时候，重新回忆一下重要的内容，翻到知识重点并且截图，做一下笔记。笔记一定要学完一次复习一次！</p>
+<p><strong>以下有两个大坑！</strong></p>
+<p><strong>很多内容听不懂没关系，大概了解并且会用即可，因为一些内容可能要到有一定的开发经验才会理解。</strong></p>
+<p><strong>知识断层不一定非要回去恶补，知道它用来干嘛即可，比如我前端开发经验特别少，而且很久没用过了，只知道JS\HTML\CSS是用来干嘛的，还有一些新的规则我也不清楚，但是不影响你快速上手！</strong></p>
+<p>最好别超过一周，具体看技术难度</p>
+<h2 id="4实战开发">4.实战开发</h2>
+<p>不要从0开始开发！
+不要从0开始开发！
+不要从0开始开发！</p>
+<p>诉求是快速开发，所以从0开始没那么多时间了。<strong>直接改别人的项目，不懂得地方直接用谷歌查问题。</strong>
+在这个实战的过程中慢慢的就会深入理解这门技术
+<img src="https://img-blog.csdnimg.cn/20210120150944422.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L2ppbmd0aWFveWFuZzY2NjY=,size_16,color_FFFFFF,t_70" alt="在这里插入图片描述">
+<img src="https://img-blog.csdnimg.cn/20210120151019868.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L2ppbmd0aWFveWFuZzY2NjY=,size_16,color_FFFFFF,t_70" alt="在这里插入图片描述"></p>
+
+      </div>
+    </article>
+
+    <hr />
+
+    <div class="post-info">
+      
+    <p>
+        <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-tag meta-icon"><path d="M20.59 13.41l-7.17 7.17a2 2 0 0 1-2.83 0L2 12V2h10l8.59 8.59a2 2 0 0 1 0 2.82z"></path><line x1="7" y1="7" x2="7" y2="7"></line></svg>
+
+        <span class="tag"><a href="https://zclam.github.io/tags/%E7%9F%A5%E8%AF%86/">知识</a></span>
+        
+    </p>
+
+      
+    <p>
+        <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-folder meta-icon"><path d="M22 19a2 2 0 0 1-2 2H4a2 2 0 0 1-2-2V5a2 2 0 0 1 2-2h5l2 3h9a2 2 0 0 1 2 2z"></path></svg>
+
+        <span class="tag"><a href="https://zclam.github.io/categories/%E9%9A%8F%E7%AC%94/">随笔</a></span>
+        
+    </p>
+
+
+      
+
+      <p>
+        <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-calendar">
+          <rect x="3" y="4" width="18" height="18" rx="2" ry="2"></rect>
+          <line x1="16" y1="2" x2="16" y2="6"></line>
+          <line x1="8" y1="2" x2="8" y2="6"></line>
+          <line x1="3" y1="10" x2="21" y2="10"></line>
+        </svg>
+        
+          2021-01-26
+        
+
+         
+          
+        
+      </p>
+    </div>
+      <hr />
+      <div class="sharing-buttons">
+        
+
+
+      </div>
+
+    
+      <div class="pagination">
+        <div class="pagination__title">
+          <span class="pagination__title-h"></span>
+          
+        </div>
+
+        <div class="pagination__buttons">
+          
+
+          
+            <span class="button next">
+              <a href="https://zclam.github.io/posts/2021/01/%E7%AC%AC3%E7%AF%87/">
+                <span class="button__text">第3篇</span>
+                <span class="button__icon">→</span>
+              </a>
+            </span>
+          
+        </div>
+      </div>
+    
+
+
+    
+
+    
+
+  </main>
+
+            </div>
+
+            
+                <footer class="footer">
+    
+</footer>
+
+            
+        </div>
+
+        
+
+
+
+<script type="text/javascript" src="https://zclam.github.io/bundle.min.af435e44374f1e99a669ea8cd5bb9a2fceed80588941a451bfddb66b86a67c9f40b0f417e9543a763f809aa7e9300d7b1d69bf99615810ba02ac70396d50fad5.js" integrity="sha512-r0NeRDdPHpmmaeqM1buaL87tgFiJQaRRv922a4amfJ9AsPQX6VQ6dj&#43;AmqfpMA17HWm/mWFYELoCrHA5bVD61Q=="></script>
+
+
+
+    </body>
+</html>
