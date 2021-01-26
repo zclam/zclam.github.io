@@ -13,7 +13,7 @@
       
       <guid>https://zclam.github.io/posts/2021/01/%E5%AD%A6%E4%B9%A0%E5%BF%AB%E9%80%9F%E4%BD%BF%E7%94%A8%E4%B8%80%E9%97%A8%E6%96%B0%E6%8A%80%E6%9C%AF/</guid>
       <description>因为业务需求，让我去学习React，记录一下我整个学习过程。我的诉求是快速了解该技术紧接上手开发项目，然后在项目中慢慢理解该门技术。但是很可惜我无法快速上手，总结一下遇到的坑，以便以后在学习一门新技术的时候，以供参考。
-@toc
+[TOC]
 之前的学习过程 所以总结一下经验，如果可以重来我会怎么学习，或者说未来面对一门新技术我应该如何快速上手。
 下次如何使用新技术 1.搜索资料 花几个钟把可以找资料的渠道都找一下，遇到好的学习资料真的可以节省很多时间！需要的内容是基础知识和简单的项目
 2.筛选资料 对比文字教学和视频教学（二倍速观看），花半天对比多几个教学看看哪个才是合适自己的，选择最合适自己的方法。
@@ -25,16 +25,6 @@
 最好别超过一周，具体看技术难度
 4.实战开发 不要从0开始开发！ 不要从0开始开发！ 不要从0开始开发！
 诉求是快速开发，所以从0开始没那么多时间了。直接改别人的项目，不懂得地方直接用谷歌查问题。 在这个实战的过程中慢慢的就会深入理解这门技术 </description>
-    </item>
-    
-    <item>
-      <title>第一篇</title>
-      <link>https://zclam.github.io/posts/2021/01/%E7%AC%AC%E4%B8%80%E7%AF%87/</link>
-      <pubDate>Mon, 25 Jan 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://zclam.github.io/posts/2021/01/%E7%AC%AC%E4%B8%80%E7%AF%87/</guid>
-      <description>之后打算用这个博客记录一下学习 Skip to main content Search
-Docs Power Platform Power Apps Create apps Dataverse Why choose Dataverse? Work with any app Search Filter by title Dataverse What is Dataverse? Overview Work with any data Importing and exporting data Work with any app Table overview Tables and metadata Types of tables Create a table Create a custom table that has components Edit a table Create and edit virtual tables Virtual table OData v4 data provider Define alternate keys using Power Apps portal Define alternate keys using solution explorer SharePoint, OneNote, and OneDrive integration Translate customized table and column text Import translated table and column text Security in Dataverse API limits overview For developers Chatbots AI Builder Work with any type of app 06/16/2020 6 minutes to read</description>
     </item>
     
   </channel>
